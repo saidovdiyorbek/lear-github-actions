@@ -1,7 +1,5 @@
 name: Hello Actions
 
-name: Hello Actions
-
 on:
   push:
 
